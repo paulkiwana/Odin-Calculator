@@ -1,0 +1,12 @@
+body{
+background-color: #333;
+}
+
+#numbers{
+display:flex;
+flex-wrap: wrap;
+}
+
+button{
+width:60px;
+}
